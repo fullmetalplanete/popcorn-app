@@ -1,10 +1,10 @@
 {
   "quit": "Sair",
   "cancel": "Cancelar",
-  "beforeQuit": "Você tem certeza que deseja sair?",
-  "loading": "Por Favor Aguarde...",
-  "loadingVideo": "Bufferizando vídeo, por favor aguarde",
-  "searchLoading": "Procurando...",
+  "beforeQuit": "Tem certeza que deseja sair?",
+  "loading": "Por favor aguarde...",
+  "loadingVideo": "Pré-carregando vídeo, por favor aguarde",
+  "searchLoading": "A procurar...",
   "noResults": "Nenhum resultado encontrado.",
 
   "search": "Procurar",
@@ -12,24 +12,24 @@
 
   "subtitledIn": "Legendas em",
   "quality": "Qualidade",
-  "watchItNow": "Assistir Agora",
+  "watchItNow": "Ver agora",
   "durationUnit": "min",
 
-  "connecting": "Conectando...",
-  "startingDownload": "Começando Download...",
-  "downloading": "Baixando...",
+  "connecting": "A ligar...",
+  "startingDownload": "Iniciando descarga...",
+  "downloading": "Descarregando...",
 
-  "UpgradeVersion": "Atualizar Popcorn Time",
-  "UpgradeVersionDescription": " acaba de ser lançado. Atualize agora!",
+  "UpgradeVersion": "Actualizar Popcorn Time",
+  "UpgradeVersionDescription": " acaba de ser lançado. Actualize agora!",
   
-  "legalDisclaimer": "Popcorn Time baixa e compartilha arquivos usando torrents, isso pode não ser legal em seu país.",
-  "legalDisclaimerResponsible": "Não nos responsabilizamos por eventuais problemas , então esteja ciente de nossos Termos e Condições antes de utilizar o app.",
-  "legalDisclaimerAccept": "Entendo e quero usar o Popcorn Time",
+  "legalDisclaimer": "Popcorn Time descarrega e partilha ficheiros utilizando torrents. Isso pode ser ilegal no seu país.",
+  "legalDisclaimerResponsible": "Não nos responsabilizamos por eventuais problemas. Assim, esteja ciente dos Termos e Condições antes de utilizar a aplicação.",
+  "legalDisclaimerAccept": "Compreendo e quero usar o Popcorn Time",
   "legalDisclaimerCancel": "Sair do Popcorn Time",
   
   "genres": {
-    "all": "Popular",
-    "action": "Ação",
+    "all": "Todos",
+    "action": "Acção",
     "adventure": "Aventura",
     "animation": "Animação",
     "biography": "Biografia",
@@ -46,9 +46,9 @@
     "musical": "Musical",
     "mystery": "Mistério",
     "romance": "Romance",
-    "sci-fi": "Sci-Fi",
-    "short": "Short",
-    "sport": "Esporte",
+    "sci-fi": "Ficção científica",
+    "short": "Curta Metragem",
+    "sport": "Desporto",
     "thriller": "Thriller",
     "war": "Guerra",
     "western": "Western"
