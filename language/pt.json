@@ -1,7 +1,7 @@
 {
   "quit": "Sair",
   "cancel": "Cancelar",
-  "beforeQuit": "Tem certeza que deseja sair?",
+  "beforeQuit": "Tem a certeza de que deseja sair?",
   "loading": "Por favor aguarde...",
   "loadingVideo": "Pré-carregando vídeo, por favor aguarde",
   "searchLoading": "A procurar...",
@@ -23,7 +23,7 @@
   "UpgradeVersionDescription": " acaba de ser lançado. Actualize agora!",
   
   "legalDisclaimer": "Popcorn Time descarrega e partilha ficheiros utilizando torrents. Isso pode ser ilegal no seu país.",
-  "legalDisclaimerResponsible": "Não nos responsabilizamos por eventuais problemas. Assim, esteja ciente dos Termos e Condições antes de utilizar a aplicação.",
+  "legalDisclaimerResponsible": "Não nos responsabilizamos por eventuais problemas. Esteja ciente dos Termos e Condições antes de utilizar a aplicação.",
   "legalDisclaimerAccept": "Compreendo e quero usar o Popcorn Time",
   "legalDisclaimerCancel": "Sair do Popcorn Time",
   
